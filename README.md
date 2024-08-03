@@ -2,7 +2,6 @@
 
 This full stack application manages user data through CRUD operations, utilizing Java Spring Boot for the backend and React for the frontend, with MySQL as the database. It provides a seamless user experience with dynamic interfaces and efficient data handling. The application showcases modern web development practices, ensuring scalability and performance.
 
-## Features
 
 - **Spring Boot Backend:**
   - RESTful API endpoints.
