@@ -1,5 +1,4 @@
 package com.anas.fullstackbackend.exception;
-/* Created by Arjun Gautam */
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ControllerAdvice;
